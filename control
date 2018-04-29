@@ -1,0 +1,9 @@
+Package: com.rudi.hideiconlabels
+Name: HideIconLabels
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide icon labels on SpringBoard
+Maintainer: Rudi Kelly
+Author: Rudi Kelly
+Section: Tweaks
